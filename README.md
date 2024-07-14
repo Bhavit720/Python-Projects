@@ -12,7 +12,7 @@ The Digital Clock project is a simple clock application built using Python langu
 - Displays the current time in HH:MM:SS format
 - Updates every second
 
-### 1. Tic-Tac-Toe Game
+### 2. Tic-Tac-Toe Game
 
 The Tic-Tac-Toe Game project is a simple implementation of the classic tic-tac-toe game using Python's Tkinter library. It allows two players to play the game on the same computer.
 
